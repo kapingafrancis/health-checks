@@ -3,7 +3,7 @@ def max_num(x, y):
     return max
 
 def print_name_age(name, age):
-    print(name, 'is', age, 'old')
+    print(name, 'is', age, 'years old')
 
 print(max_num(24,89))
 
