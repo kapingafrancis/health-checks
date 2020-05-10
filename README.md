@@ -8,3 +8,5 @@ Francis Kaping'a is the one working on this great code
 Another new line
 
 My son will be the best coder
+
+Can I fool git? Asking for a friend
